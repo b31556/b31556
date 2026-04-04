@@ -4,7 +4,7 @@
 
 **Founding Engineer · AI Systems · Full Stack · Security**
 
-*Building production AI at a Series A startup while finishing my CS degree*
+*Founding Engineer at a Series A AI startup · Full Stack · AI Systems · Security*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedek-tóth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tbguru558@gmail.com)
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a 21-year-old full stack engineer on the founding team at **NativelyAI** — a Series A AI startup that automates the software development lifecycle. I own features end-to-end: scoping, architecture, implementation, deployment, and monitoring. Simultaneously I'm in my 3rd year at **BME** (Budapest University of Technology and Economics) and independently run **Karinthy Connect**, the most advanced school digital infrastructure platform in Hungary, serving 1,000–2,000 students.
+Full stack engineer on the founding team at **NativelyAI** — a Series A AI startup that automates the software development lifecycle. I own features end-to-end: scoping, architecture, implementation, deployment, and monitoring. I also independently run **Karinthy Connect**, the most advanced school digital infrastructure platform in Hungary, serving 1,000–2,000 students.
 
 I also have hands-on penetration testing experience — I uncovered a critical multi-stage vulnerability chain (path traversal → source disclosure → SQLi) in a legacy school system, putting 5,000+ students' personal data at risk. I built a secure replacement from scratch.
 
@@ -130,5 +130,5 @@ AI-powered health & wellness app built at a MIT hackathon. LLM-driven personalis
 ---
 
 <div align="center">
-<sub>BME Computer Science · 3rd year · Budapest, Hungary</sub>
+<sub>Budapest, Hungary · EU work-authorized</sub>
 </div>
