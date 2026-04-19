@@ -2,9 +2,9 @@
 
 # Tóth Benedek
 
-**Founding Engineer · AI Systems · Full Stack · Security**
+**Engineer · AI Systems · Full Stack · Security**
 
-*Founding Engineer at a Series A AI startup · Full Stack · AI Systems · Security*
+*Engineer at a Series A AI startup · Full Stack · AI Systems · Security*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedek-tóth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tbguru558@gmail.com)
@@ -16,16 +16,15 @@
 
 ## About
 
-Full stack engineer on the founding team at **NativelyAI** — a Series A AI startup that automates the software development lifecycle. I own features end-to-end: scoping, architecture, implementation, deployment, and monitoring. I also independently run **Karinthy Connect**, the most advanced school digital infrastructure platform in Hungary, serving 1,000–2,000 students.
+Full stack engineer at **NativelyAI** — a Series A AI startup that automates the software development lifecycle. I own features end-to-end: scoping, architecture, implementation, deployment, and monitoring.
 
-I also have hands-on penetration testing experience — I uncovered a critical multi-stage vulnerability chain (path traversal → source disclosure → SQLi) in a legacy school system, putting 5,000+ students' personal data at risk. I built a secure replacement from scratch.
+I also have hands-on penetration testing experience — I uncovered a critical multi-stage vulnerability chain (path traversal → source disclosure → SQLi) in a legacy school system, putting 5,000+ students' personal data at risk.
 
 ---
 
 ## What I'm Working On
 
 - **Parallel Execution Engine** — coordinating multiple AI agents working on the same codebase simultaneously without conflicts, using a shared knowledge-state model
-- **Karinthy Connect** — full school platform with social feed, automated timetable generation, club management, Grafana/Prometheus observability, and AI assistants
 - **AI Agent Framework** — autonomous multi-agent system with task decomposition, sub-agent delegation, and self-correction (CrewAI, Ollama, FastAPI)
 
 ---
@@ -82,13 +81,6 @@ I also have hands-on penetration testing experience — I uncovered a critical m
 ---
 
 ## Featured Projects
-
-### [Karinthy Connect](https://karinthy-connect.tbnet.hu)
-Production school platform for Karinthy Frigyes Gimnázium — the most advanced of its kind in Hungary. Serves 1,000–2,000 students with a social feed, automated timetable generation, club management, task boards, role-based access control, real-time notifications, Prometheus/Grafana observability, and integrated AI assistants. Fully containerised. I also mentor and coordinate a team of student contributors on the codebase.
-
-`FastAPI` `React` `PostgreSQL` `Docker` `Celery` `AWS S3` `Prometheus` `Grafana`
-
----
 
 ### [Foodora Clone](https://github.com/b31556/foodora)
 Full-stack food delivery platform — restaurant management portal, real-time order tracking, courier dispatch, and payment integration.
