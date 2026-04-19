@@ -18,8 +18,6 @@
 
 Full stack engineer at **NativelyAI** — a Series A AI startup that automates the software development lifecycle. I own features end-to-end: scoping, architecture, implementation, deployment, and monitoring.
 
-I also have hands-on penetration testing experience — I uncovered a critical multi-stage vulnerability chain (path traversal → source disclosure → SQLi) in a legacy school system, putting 5,000+ students' personal data at risk.
-
 ---
 
 ## What I'm Working On
