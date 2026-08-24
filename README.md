@@ -7,7 +7,7 @@
 *Engineer at a Series A AI startup · Full Stack · AI Systems · Security*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedek-tóth)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tbguru558@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:benedek.toth@tbnet.hu)
 [![Location](https://img.shields.io/badge/Budapest,_Hungary-grey?style=flat&logo=googlemaps&logoColor=white)](https://github.com/b31556)
 
 </div>
